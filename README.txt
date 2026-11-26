@@ -1,4 +1,6 @@
 # Campanha de Doação Agasalho e Ração - 2027
+Aluno: Johnny Albert Garcia
+RA: 1012020100200
 
 Aplicação web para organizar uma campanha de doação de agasalhos (pessoas carentes e em situação de rua) e de ração (abrigos de animais).
 Projeto Integrado – Desenvolvimento para Web – UNIFEOB (4º trimestre 2026).
